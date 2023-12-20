@@ -1,0 +1,12 @@
+fastapi
+pydantic
+uvicorn[standard]
+python-multipart
+numpy
+Pillow
+tensorflow==2.9.0
+tensorflow-gpu==2.9.0
+opencv-python
+mediapipe
+scikit-learn
+matplotlib
